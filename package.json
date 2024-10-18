@@ -1,0 +1,1 @@
+{"name":"Mwer","version":"20.2.0","description":"Mcraft","main":"index.js","author":"Mine","license":"MIT","private":false,"scripts":{"start":"node index.js","test":"echo \"Error: no test specified\" && exit 1"},"dependencies":{"ws": "latest"},"engines":{"node":">=14"}}
